@@ -3218,10 +3218,10 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs>li {
   float: left;
   margin-bottom: -1px;
-}
+}f
 
 .nav-tabs>li>a {
-  margin-right: 2px;
+  margin-right: 2;
   line-height: 1.42857143;
   border: 1px solid transparent;
   border-radius: 0 0 0 0;
@@ -3236,7 +3236,6 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs>li.active>a:focus {
   color: #555555;
   background-color: #ffffff;
-  border: 1px solid var(--primary-accent);
   border-bottom-color: transparent;
   cursor: default;
 }
